@@ -1,7 +1,12 @@
 ## Hi there 👋
 
+🚀 Full-stack Developer | 🌟 Python |  JAVA  | C Programming
+
 <!--
 **ribhutiwari08/ribhutiwari08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Ribhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnDoe&show_icons=true&theme=radical)
+
 
 Here are some ideas to get you started:
 
