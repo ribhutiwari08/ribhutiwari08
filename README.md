@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+🚀 Full-stack Developer | 🌟 JAVA  
 <!--
 **ribhutiwari08/ribhutiwari08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 Here are some ideas to get you started:
 
