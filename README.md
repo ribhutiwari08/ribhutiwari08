@@ -42,8 +42,8 @@ Here’s what I’m currently using to bring ideas to life:
 ---
 
 ## **📬 Let's Connect!**
-💼 **LinkedIn**: https://www.linkedin.com/in/ribhu-bhushan-tiwari-832432262/(#)  
+💼 **LinkedIn**: https://www.linkedin.com/in/ribhu-bhushan-tiwari-832432262/
 📧 **Email**: ribhubhushan08@gmail.com  
-📝 **Portfolio**: https://ribhutiwari08.github.io/Website/(#)  
+📝 **Portfolio**: https://ribhutiwari08.github.io/Website/ 
 
 ---
