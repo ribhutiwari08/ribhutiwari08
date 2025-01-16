@@ -6,7 +6,7 @@
 ---
 
 ## ** About Me**
-🎓 **Background**: An ardent programmer with a strong foundation in Computer Science.  
+🎓 **Background**: An ardent programmer with a strong foundation in Computer Science
 🌐 **Tech Stack**:
 - **Languages**: Java  | C | Python  | JavaScript 💻 
 - **Web Development**: HTML | CSS | React (Beginner)  
