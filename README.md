@@ -11,7 +11,7 @@
 - **Languages**: Java  | C | Python  | JavaScript 💻 
 - **Web Development**: HTML | CSS | React (Beginner)  
 - **Machine Learning , Deep Learning & Data Science**: EDA, Regression, Classification, Data Visualization 📊  
-   Always exploring new tools and frameworks to sharpen my technical arsenal.  
+   Always exploring new tools and frameworks to sharpen my technical arsenal
 
 ---
 
