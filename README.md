@@ -1,7 +1,7 @@
 
 ### **Hi there! I'm Ribhu Bhushan Tiwari **
  **Lifelong Learner | Code Enthusiast | Aspiring Tech Visionary**  
-💻 Passionate about crafting efficient solutions, exploring cutting-edge technologies, and sharing my journey in the world of programming and machine learning.
+💻 Passionate about crafting efficient solutions, exploring cutting-edge technologies, and sharing my journey in the world of programming and machine learning
 
 ---
 
